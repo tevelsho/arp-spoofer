@@ -1,3 +1,5 @@
+# Arp Spoofer
+
 This Python script allows you to perform ARP spoofing, which can be used for "Man In The Middle" attacks on a network. It spoofs ARP packets to manipulate the ARP cache of the target machine, redirecting its traffic to the attacker. Created to try penetration testing :)
 
 Modules Used
